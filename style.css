@@ -307,7 +307,7 @@ body {
   color: #c82333;
   text-decoration: underline;
 }
-/* #about {
+ #about {
   animation-delay: 0s;
 }
 
@@ -337,4 +337,4 @@ body {
       opacity: 1;
       transform: translateY(0);
     }
-} */
+} 
